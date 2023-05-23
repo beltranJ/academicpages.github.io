@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Jordi B Perello"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://beltranj.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Jordi Beltran Perello"
+description              : &description "As a deep learning enthusiast with a background in Physics (B.Sc. from the University of Barcelona), my primary focus is on computer vision and natural language processing. I have completed advanced courses such as Stanford University's CS231n: Deep Learning for Computer Vision (Non-Official) and IBM's Advanced Data Science on Coursera. I have hands-on experience in implementing ML models, as demonstrated in my Kaggle and GitHub profiles."
+url                      : https://jordibper.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "beltranj.github.io"
+repository               : "jordibper.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
