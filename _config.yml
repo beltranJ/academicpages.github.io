@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter @BelpeJordi
+  username               : &twitter BelpeJordi
 facebook:
   username               :
   app_id                 :
