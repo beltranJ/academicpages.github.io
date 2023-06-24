@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jordi B Perello"
+title                    : "Jordi's universe"
 title_separator          : "-"
 name                     : &name "Jordi Beltran Perello"
-description              : &description "As a deep learning enthusiast with a background in Physics (B.Sc. from the University of Barcelona), my primary focus is on computer vision and natural language processing. I have completed advanced courses such as Stanford University's CS231n: Deep Learning for Computer Vision (Non-Official) and IBM's Advanced Data Science on Coursera. I have hands-on experience in implementing ML models, as demonstrated in my Kaggle and GitHub profiles."
+description              : &description "Physics and AI geek."
 url                      : https://jordibelp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jordibelp.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter @BelpeJordi
 facebook:
   username               :
   app_id                 :
@@ -80,13 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jordi B P"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Physics and AI enthusiast. Training vision models on large datasets. Keep learning and stay curious :)"
+  location         : "Barcelona, Spain"
+  kaggle           : "https://www.kaggle.com/jordibeltranperello"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "jordibelp"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jordi-beltran-perell%C3%B3-a71952164/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/BelpeJordi"
   vine             :
   weibo            :
   xing             :
