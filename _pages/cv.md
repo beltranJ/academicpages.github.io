@@ -9,7 +9,6 @@ redirect_from:
 
 ## Education
 **University of Barcelona**, Bachelor of Science in Physics, Sep 2017 - Jan 2022
-- Average Score: 8.0/10
 - Research Internship: Beca Colaboración, Optics Department (2021-2022)
 
 **Stanford University**, CS231n: Deep Learning for Computer Vision
@@ -40,10 +39,10 @@ redirect_from:
 - Tools: Pytorch, TPU
 
 ## Skills
-**Programming Languages:** Python, C++, Labview
-**Tech Tools:** Pytorch, Tensorflow, Pyspark, GPT-4, Github Copilot, numpy, Pandas, plotting libraries
-**Other:** LaTeX, Markdown, Excel, Rational DOORS, SQL
+- **Programming Languages:** Python, C++, Labview
+- **Tech Tools:** Pytorch, Tensorflow, Pyspark, GPT-4, Github Copilot, numpy, Pandas, plotting libraries
+- **Other:** LaTeX, Markdown, Excel, Rational DOORS, SQL
 
 ## Languages
-Catalan and Spanish: Native
-English: Fluent, Cambridge B2 First Certificate
+- Catalan and Spanish: Native
+- English: Fluent, Cambridge B2 First Certificate
